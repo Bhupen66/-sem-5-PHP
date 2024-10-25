@@ -1,0 +1,45 @@
+/* styles.css */
+
+body {
+    background-color: #f4f4f9;
+}
+
+.navbar-brand {
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    color: #d63384 !important;
+}
+
+.nav-link {
+    color: #6c757d !important;
+}
+
+.nav-link:hover {
+    color: #d63384 !important;
+}
+
+h1, h2, h5 {
+    color: #343a40;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    object-fit: cover;
+    height: 250px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+footer p {
+    margin: 0;
+}
